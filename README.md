@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pallapup
+- 👋 Hi, I’m @PAVAN_KALYAN
 - 👀 I’m interested in play cricket.
 - 🌱 I’m currently learning Data science and analytics.
 - <!---
